@@ -1,4 +1,4 @@
-package blackskad.fun.geoloc;
+package blackskad.fun.geoloc.android;
 
 import android.app.ListActivity;
 import android.content.BroadcastReceiver;

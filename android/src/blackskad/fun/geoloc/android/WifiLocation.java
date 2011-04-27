@@ -1,5 +1,5 @@
 
-package blackskad.fun.geoloc;
+package blackskad.fun.geoloc.android;
 
 import android.location.Location;
 import android.net.wifi.ScanResult;
